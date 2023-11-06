@@ -1,7 +1,7 @@
 # Notes-NodeJs-CRUD-MongoDB
 
 ## You need:
-- Database (MongoDB)
+- Database (MongoDB).
 - Google Console Account to create the API Auth Key's
 
 ## Create .env file
